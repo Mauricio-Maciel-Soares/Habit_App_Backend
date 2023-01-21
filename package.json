@@ -23,6 +23,7 @@
     "fastify": "^4.12.0"
   },
   "devDependencies": {
+    "prettier-plugin-prisma": "^4.8.0",
     "prisma": "^4.9.0",
     "tsx": "^3.12.2",
     "typescript": "^4.9.4"
