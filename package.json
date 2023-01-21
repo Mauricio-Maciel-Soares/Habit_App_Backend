@@ -1,0 +1,28 @@
+{
+  "name": "habit-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauricio-Maciel-Soares/habit-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauricio-Maciel-Soares/habit-app/issues"
+  },
+  "homepage": "https://github.com/Mauricio-Maciel-Soares/habit-app#readme",
+  "dependencies": {
+    "fastify": "^4.12.0"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.2",
+    "typescript": "^4.9.4"
+  }
+}
